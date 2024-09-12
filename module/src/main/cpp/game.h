@@ -1,10 +1,10 @@
 //
-// Created by Perfare on 2020/7/4.
+//由Perfare于2020/7/4创建。
 //
 
-#ifndef ZYGISK_IL2CPPDUMPER_GAME_H
-#define ZYGISK_IL2CPPDUMPER_GAME_H
+#ifndefZYGISK_IL2CPPDUMPER_GAME_H
+#defineZYGISK_IL2CPPDUMPER_GAME_H
 
-#define GamePackageName "com.game.packagenamecom.xiaoniu.ycdml.tap"
+#defineGamePackageName"com.tong.lcgame.m4399"
 
 #endif //ZYGISK_IL2CPPDUMPER_GAME_H
